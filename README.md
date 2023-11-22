@@ -16,4 +16,6 @@ this little tool gets your environment set up with aws + docker without any hard
 2. **run the script**: execute the script with the docker image url as an arg
 
 ```bash
+chmod +x cloudsync.sh
 ./cloudsync.sh <docker_image_url>
+```
